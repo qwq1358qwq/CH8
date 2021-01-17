@@ -10,9 +10,8 @@
 
 4. 最終產生曲線圖
 
-   ![image-20210117225520263](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210117225520263.png)
-
-![，](C:\Users\user\Desktop\123.jpg)
+   ![image](https://github.com/qwq1358qwq/CH8/blob/main/messageImage_1610895088625.jpg)
+   ![image](https://github.com/qwq1358qwq/CH8/blob/main/123.jpg)
 
 # 心得
 
